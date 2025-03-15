@@ -1,0 +1,9 @@
+[submodule "BeefProject/vendor/raylib-beef"]
+	path = BeefProject/vendor/raylib-beef
+	url = https://github.com/starpelly/raylib-beef
+[submodule "BeefProject/vendor/Beef"]
+	path = BeefProject/vendor/Beef
+	url = https://github.com/beefytech/Beef
+[submodule "Beef"]
+	path = Beef
+	url = https://github.com/beefytech/Beef
